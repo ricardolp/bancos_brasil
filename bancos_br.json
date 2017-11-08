@@ -1,0 +1,91 @@
+
+<div className="col-xs-12" id="issue-data">
+   <div className="card profile-card-with-cover">
+      <div className="card-body">
+         <div className="card-img-top img-fluid bg-cover height-200" style="background: url('https://octuz.com/images/backgrounds/nextel-bg.png') 0 30%;"></div>
+         <div className="card-profile-image">
+            <img src="https://octuz.com/images/empresas/nextel-small.png" className="rounded-circle img-border box-shadow-1 img-empresa" alt="Card image"/>
+         </div>
+         <div className="profile-card-with-cover-content">
+            <div className="profile-details mt-2  text-xs-center">
+               <h4 className="card-title">
+                  Nextel <br/>
+                  <small>
+                     <div className="tags">
+                        <a className="tag" href="#">Funcionamento</a>
+                        <a className="tag" href="#">Reembolso</a>
+                     </div>
+                  </small>
+               </h4>
+               <div className="user-social">
+                  <a href="#">
+                  <i className="os-icon os-icon-twitter"></i>
+                  </a>
+                  <a href="#">
+                  <i className="os-icon os-icon-facebook"></i>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <div className="card-block">
+            <form className="form">
+               <div className="form-body">
+                  <div className="col-md-12">
+                     <h4 className="form-section" style="font-size:1rem;">
+                        <i className="os-icon os-icon-calendar-time"></i>
+                        Iniciada em:
+                        <span className="pull-right">01/11/2017 00:33</span>
+                     </h4>
+                  </div>
+                  <div className="col-md-12">
+                     <h4 className="form-section" style="font-size:1rem;">
+                        <i className="os-icon os-icon-grid-18"></i>
+                        Última atualização:
+                        <span className="pull-right">01/11/2017 00:33</span>
+                     </h4>
+                  </div>
+                  <div className="col-md-12">
+                     <h4 className="form-section" style="font-size:1rem;">
+                        <i className="os-icon os-icon-others-43"></i>
+                        Descrição do problema
+                     </h4>
+                     <p className="justify" style="font-size:1rem;">
+                        Quando eu contratei os serviços não foi falado que se eu contratasse algum pacote extra se eu não voltasse alugar pra cancelar aquele pacote extra que iria ser cobrado novamente no outro mês então estou pagando alto de mais por uma coisa que contratei uma única vez
+                     </p>
+                  </div>
+                  <div className="col-md-12">
+                     <h4 className="form-section" style="font-size:1rem;">
+                        <i className="os-icon os-icon-others-43"></i>
+                        Solução Esperada
+                     </h4>
+                     <p className="justify" style="font-size:1rem;">
+                        Quero ser rembolsado por isso
+                     </p>
+                  </div>
+                  <div className="col-md-12">
+                     <h4 className="form-section" style="font-size:1rem;">
+                        <i className="os-icon os-icon-cv-2"></i>
+                        Status:
+                        <span className="pull-right">
+                           <div className="tag tag-default">Aguardando</div>
+                        </span>
+                     </h4>
+                  </div>
+                  <div className="col-md-12">
+                     <h4 className="form-section" style="font-size:1rem;">
+                        <i className="os-icon os-icon-documents-03"></i>
+                        Arquivos:
+                     </h4>
+                     <div className="ci-content">
+                        <div className="ci-file-list">
+                           <ul>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+</div>
